@@ -1,0 +1,5 @@
+com\wend\demo\dao\LoginDao.class
+com\wend\demo\domain\User.class
+com\wend\utils\EmptyUtil.class
+com\wend\demo\service\LoginServiceImpl.class
+com\wend\demo\controller\LoginAction.class
